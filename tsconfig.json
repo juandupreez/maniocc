@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "outDir": "build",
+        "declaration": true,
+        "moduleResolution": "node",
+        "rootDir": "src/main"
+    },
+    "include": [
+        "src/main/**/*"
+    ]
+}
