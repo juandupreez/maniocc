@@ -1,0 +1,27 @@
+{
+  "name": "maniocc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juandupreez/maniocc.git"
+  },
+  "keywords": [
+    "dependency",
+    "injection",
+    "inversion",
+    "of",
+    "control",
+    "singleton"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juandupreez/maniocc/issues"
+  },
+  "homepage": "https://github.com/juandupreez/maniocc#readme"
+}
